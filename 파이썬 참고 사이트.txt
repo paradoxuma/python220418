@@ -1,0 +1,13 @@
+www.schoology.com 에서 자료 배포
+
+
+https://www.python.org/
+https://docs.python.org/ko/3.9/
+https://pypi.org/
+https://code.visualstudio.com/
+https://papasmf.blogspot.com/2021/12/2022-39.html
+
+
+개발툴 추천 : 3개 - VSCode, 파이참, 아나콘다를 추천!!!!
+
+https://papasmf.blogspot.com/2021/10/blog-post_11.html
