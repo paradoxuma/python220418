@@ -59,7 +59,13 @@ print(device)
 #print(device[0])
 
 
+#반복문
+for item in device.items():
+    print(item)
 
+for k,v in device.items():
+    print(k, v)
+    
 
 
 
